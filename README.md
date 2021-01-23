@@ -1,4 +1,4 @@
-# Open Source Adam Documentation
+# Open Source Place Documentation
 
 ## ⚒️ Build Setup 
 
